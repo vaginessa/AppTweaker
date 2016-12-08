@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Tweaker</string>
+    <string name="app_description">A simple and powerful App Tweaker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="app_selector">Select App</string>
+    <string name="app_introduction_title">Introduction</string>
+    <string name="title_activity_apk_extractor">ApkExtractor</string>
+    <string name="App_saved_path_download">App saved to Folder /Download of internal storage.</string>
+    <string name="title_activity_select_app">Select App</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tweakPresent">Some tweaks are present for this application: Use it?</string>
+    <string name="title_activity_tweak_selector">TweakSelector</string>
+</resources>

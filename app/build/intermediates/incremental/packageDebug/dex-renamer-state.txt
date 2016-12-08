@@ -1,0 +1,7 @@
+#Thu Dec 08 23:38:49 CET 2016
+base.0=/home/saymon/AndroidStudioProjects/AppTweaker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_95eb98938de063c7f7c09cd7747d8889be557100
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/saymon/AndroidStudioProjects/AppTweaker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2cebac11198de71aeebef9ee514079bdc522a810/classes.dex
+base.1=/home/saymon/AndroidStudioProjects/AppTweaker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2cebac11198de71aeebef9ee514079bdc522a810
+file.0=/home/saymon/AndroidStudioProjects/AppTweaker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_95eb98938de063c7f7c09cd7747d8889be557100/classes.dex
